@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SofianM17
 - 👀 I’m interested in expanding my skills and industry-knowledge in full stack web development 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning MongoDB and React
 <!--- 📫 How to reach me ... --->
 
 <!---
